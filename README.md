@@ -80,20 +80,10 @@ that matter; Bash, Python and TypeScript where they fit.
 ## GitHub stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlexGromer&show_icons=true&hide_border=true&theme=dark&bg_color=00000000">
-    <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=AlexGromer&show_icons=true&hide_border=true&theme=default&bg_color=00000000">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGromer&layout=compact&hide_border=true&theme=dark&bg_color=00000000">
-    <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGromer&layout=compact&hide_border=true&theme=default&bg_color=00000000">
-  </picture>
+  <img alt="GitHub overview: public repositories, stars, commits in the last 12 months, languages" width="100%" src="https://raw.githubusercontent.com/AlexGromer/alexgromer.github.io/main/img/stats-overview.svg">
 </p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AlexGromer&hide_border=true&theme=dark&background=00000000">
-    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=AlexGromer&hide_border=true&theme=default&background=00000000">
-  </picture>
+  <img alt="Languages by bytes across public non-fork repositories" width="100%" src="https://raw.githubusercontent.com/AlexGromer/alexgromer.github.io/main/img/stats-langs.svg">
 </p>
 
 ---
